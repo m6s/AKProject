@@ -1,3 +1,9 @@
-# AndroidKit and JDispatch
+```java
+GraphicsRect frame = mainScreen.getApplicationFrame();
+window.setFrame(frame);
+window.makeKeyAndVisible();
+```
 
-AndroidKit is a port of basic CocoaTouch frameworks to Android/Java. JDispatch is a port of GCD. Check the ```samples``` directory to get an impression of what's already possible.
+![Touches](Touches.png)
+
+Project under development. Visit [GitHub](https://github.com/KavaProject/KavaTouch) if you want to participate!

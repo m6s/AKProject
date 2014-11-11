@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AKProject.iml" filepath="$PROJECT_DIR$/AKProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidKit/AndroidKit.iml" filepath="$PROJECT_DIR$/AndroidKit/AndroidKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/CATest/CATest.iml" filepath="$PROJECT_DIR$/samples/CATest/CATest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/HelloGuice/HelloGuice.iml" filepath="$PROJECT_DIR$/samples/HelloGuice/HelloGuice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/samples/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/ThreadingReference/ThreadingReference.iml" filepath="$PROJECT_DIR$/samples/ThreadingReference/ThreadingReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/Touches/Touches.iml" filepath="$PROJECT_DIR$/samples/Touches/Touches.iml" />
+    </modules>
+  </component>
+</project>
+
